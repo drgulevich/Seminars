@@ -1,5 +1,11 @@
 # Many-Body Seminars @ ITMO
 
+## Coming seminars
+
+...
+
+## Past seminars
+
 ``Date``: **29 May 2019** \
 ``Topic``: **Introduction to C-TDDFT** \
 ``Presenter``: N. Kharuk, PhD student \
