@@ -1,6 +1,6 @@
 # Many-Body Seminars @ ITMO
 
-### 29 May 2019: Introduction to C-TDDFT \
+_29 May 2019_ \
 ``Topic``: Introduction to C-TDDFT \
 ``Presenter``: N. Kharuk, PhD student \
 ``Location``: room 53, Birzhevaya 14. \
