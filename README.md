@@ -1,6 +1,6 @@
 # Many-Body Seminars @ ITMO
 
-## Coming seminars in June-August
+## Coming seminars in June-August 2019
 
 "Bethe–Salpeter equation I: Theory" by Yaroslav V. Zhumagulov <br/>
 "Bethe–Salpeter equation II: Applications" by Roman G. Polozkov <br/>
