@@ -5,7 +5,7 @@
 "Bethe–Salpeter equation I: Theory" by Yaroslav V. Zhumagulov <br/>
 "Bethe–Salpeter equation II: Applications" by Roman Polozkov <br/>
 "Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich <br/>
-"GitHub for productive collaboration: tutorial for beginners" by Dmitry R. Gulevich <br/>
+"GitHub for productive collaboration: tutorial" by Dmitry R. Gulevich <br/>
 
 ## Past seminars
 
