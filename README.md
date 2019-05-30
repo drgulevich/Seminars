@@ -2,10 +2,10 @@
 
 ## Coming seminars
 
-"Bethe–Salpeter equation I: Theory" by Yaroslav V. Zhumagulov
-"Bethe–Salpeter equation II: Applications" by Roman Polozkov
-"GitHub for beginners" by Dmitry R. Gulevich
-"Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich
+"Bethe–Salpeter equation I: Theory" by Yaroslav V. Zhumagulov <br/>
+"Bethe–Salpeter equation II: Applications" by Roman Polozkov <br/>
+"Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich <br/>
+"GitHub for beginners" by Dmitry R. Gulevich <br/>
 
 ## Past seminars
 
