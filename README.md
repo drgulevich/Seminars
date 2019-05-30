@@ -4,8 +4,9 @@
 
 "Bethe–Salpeter equation I: Theory" by Yaroslav V. Zhumagulov <br/>
 "Bethe–Salpeter equation II: Applications" by Roman G. Polozkov <br/>
-"Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich <br/>
+"Pseudopotentials" by Roman G. Polozkov and Yaroslav V. Zhumagulov <br/>
 "GitHub for productive collaboration", tutorial by Dmitry R. Gulevich <br/>
+"Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich <br/>
 
 ## Past seminars
 
