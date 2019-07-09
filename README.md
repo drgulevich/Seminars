@@ -3,7 +3,7 @@
 ## Coming seminars in June-August 2019
 
 _Date_: Thursday 11 July 2019, 10:00 <br/>
-_Topic_: **The Bethe-Salpeter equation and excitons in 2D materials** <br/>
+_Topic_: **The Bethe-Salpeter equation** <br/>
 _Presenter_: Yarolsav V. Zhumagulov, PhD student <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
 
