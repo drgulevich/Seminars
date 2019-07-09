@@ -15,3 +15,9 @@ _Topic_: **Introduction to C-TDDFT** <br/>
 _Presenter_: N. V. Kharuk, PhD student <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
 _Refs_: Chapter 10 "Time-dependent current-DFT" in C. A. Ullrich, "Time-Dependent Density-Functional Theory" (Oxford, 2012). 
+
+_Date_: Thursday 11 July 2019, 10:00 <br/>
+_Topic_: **Bethe-Salpeter equation** <br/>
+_Presenter_: Yarolsav V. Zhumagulov, PhD student <br/>
+_Location_: Birzhevaya liniya 14, room 539 <br/>
+
