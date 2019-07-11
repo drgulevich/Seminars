@@ -1,17 +1,17 @@
 # Many-Body Seminars @ ITMO
 
-_Date_: Wednedsay 24 July 2019 <br/>
+_Date_: Wed 24 July 2019 <br/>
 _Topic_: **The Bethe-Salpeter equation: II** <br/>
 _Presenter_: Yarolsav V. Zhumagulov, PhD student <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
 
-_Date_: Thursday 11 July 2019, 11:00 <br/>
+_Date_: Thur 11 July 2019, 11:00 <br/>
 _Topic_: **The Bethe-Salpeter equation: I** <br/>
 _Presenter_: Yarolsav V. Zhumagulov, PhD student <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
 _Refs_: [Lucia Reining, Linear Response and More: the Bethe-Salpeter Equation](https://www.cond-mat.de/events/correl16/manuscripts/reining.pdf)
 
-_Date_: Wednesday 29 May 2019 <br/>
+_Date_: Wed 29 May 2019 <br/>
 _Topic_: **Introduction to C-TDDFT** <br/>
 _Presenter_: N. V. Kharuk, PhD student <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
