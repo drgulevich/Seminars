@@ -1,6 +1,6 @@
 # Many-Body Seminars @ ITMO
 
-_Date_: Wed 24 July 2019, 11:00 <br/>
+_Date_: Wed 24 July 2019, 10:00 <br/>
 _Topic_: **The Bethe-Salpeter equation: II** <br/>
 _Presenter_: Yarolsav V. Zhumagulov and Roman G. Polozkov <br/>
 _Location_: Birzhevaya liniya 14, room 539 <br/>
