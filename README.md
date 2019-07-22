@@ -19,7 +19,6 @@ _Refs_: Chapter 10 "Time-dependent current-DFT" in C. A. Ullrich, "Time-Dependen
 
 ## Coming soon
 
-"Bethe–Salpeter equation II: Applications" by Roman G. Polozkov <br/>
 "Pseudopotentials" by Roman G. Polozkov and Yaroslav V. Zhumagulov <br/>
 "GitHub for productive collaboration", tutorial by Dmitry R. Gulevich <br/>
 "Introduction to GPAW" by Yaroslav V. Zhumagulov and Dmitry R. Gulevich <br/>
